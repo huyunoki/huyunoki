@@ -22,9 +22,9 @@
   </a>
 </p>
 
-<h1 align="center">🌙 Yuta huyunoki</h1>
+<h1 align="center">🌙 I'm huyunoki</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=500&lines=音楽とコードで世界をつなぐ;フルスタック志望エンジニア;Laravel×React×Docker;常に学び、常に挑戦する" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=500&lines=駆け出しチャレンジャー;フルスタック志望エンジニア;Laravel×React×Docker;常に学び、常に挑戦する" />
 </p>
 
 ## 🛠️ スキルセット
