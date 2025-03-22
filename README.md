@@ -46,9 +46,9 @@
 ## 📊 GitHub 統計情報
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yutakatayby&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyunoki&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutakatayby&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyunoki&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub トロフィー
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yutakatayby&theme=darkhub&column=7&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=huyunoki&theme=darkhub&column=7&margin-w=10&margin-h=15" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 📊 アクティビティグラフ
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yutakatayby&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=huyunoki&theme=tokyo-night" />
 </p>
 
 ---
