@@ -1,14 +1,30 @@
 name: GitHub Metrics
 
 on:
-  workflow_dispatch:
+  # スケジュール実行
+  schedule:
+    - cron: '0 0 * * *'
+  # プッシュ時にも実行
+  push:
+    branches:
+      - main
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v2
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: huyunoki
-          base: header
+          base: 'header, activity, community, repositories, metadata'
+          base_options: 'lines=3, recent_repos=5'
+          config_timezone: Asia/Tokyo
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_colors: yes
+          plugin_languages_threshold: 0%
+          plugin_languages_details: 'percentage'
+          plugin_languages_sections: 'most-used'
