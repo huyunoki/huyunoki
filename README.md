@@ -1,24 +1,41 @@
 <p align="center">
+  <h1 align="center">
+    Hi there 👋, I'm huyunoki!
+  </h1>
+  <p align="center">
+    関西大学出身 | 2026年より東京でWebエンジニアとして活動予定
+  </p>
+  
+  <p align="left">
+  <a href="https://github.com/huyunoki/huyunoki/">
+    <img src="https://komarev.com/ghpvc/?username=huyunoki" alt="huyunoki" />
+  </a>
+  <a href="http://twitter.com/huyunoki">
+    <img height="20" src="https://img.shields.io/twitter/follow/huyunoki?label=Twitter&logo=twitter&style=flat" />
+  </a>
   <a href="https://github.com/huyunoki">
-    <img src="https://github.com/huyunoki/huyunoki/assets/YOUR_USER_ID/YOUR_PROFILE_IMAGE.png" width="150" height="150" alt="huyunoki's Profile Picture (Optional)" style="border-radius:50%;">
+    <img height="20" src="https://img.shields.io/github/followers/huyunoki?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/huyunoki">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/huyunoki?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/huyunoki">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/huyunoki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/huyunoki/posts.svg" />
+  </a>
+  <//qiita.com/huyunoki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/huyunoki/contributions.svg" />
   </a>
 </p>
 
-<h1 align="center">
-  Hi there 👋, I'm huyunoki!
-</h1>
 
-<p align="center">
-  関西大学出身 | 2026年より東京でWebエンジニアとして活動予定
-</p>
 
 ---
 
 ## 🔥 GitHub アクティビティ & 統計
 
-<p align="center">
-  <img src="https://github.com/huyunoki/huyunoki/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huyunoki&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="huyunoki's GitHub Stats" />
