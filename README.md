@@ -103,8 +103,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fuyunoki&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunoki&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fuyunoki&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fuyunoki&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fuyunoki&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fuyunoki&theme=github_dark&utcOffset=9" />
 </p>
 
 <p align="center">
