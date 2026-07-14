@@ -1,32 +1,32 @@
 <p align="center">
   <h1 align="center">
-    Hi there 👋, I'm huyunoki!
+    Hi there 👋, I'm fuyunoki!
   </h1>
   <p align="center">
     関西大学出身 | 2026年より東京でWebエンジニアとして活動予定
   </p>
   
   <p align="left">
-  <a href="https://github.com/huyunoki/huyunoki/">
-    <img src="https://komarev.com/ghpvc/?username=huyunoki" alt="huyunoki" />
+  <a href="https://github.com/fuyunoki/fuyunoki/">
+    <img src="https://komarev.com/ghpvc/?username=fuyunoki" alt="fuyunoki" />
   </a>
-  <a href="http://twitter.com/huyunoki">
-    <img height="20" src="https://img.shields.io/twitter/follow/huyunoki?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/fuyunoki">
+    <img height="20" src="https://img.shields.io/twitter/follow/fuyunoki?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/huyunoki">
-    <img height="20" src="https://img.shields.io/github/followers/huyunoki?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/fuyunoki">
+    <img height="20" src="https://img.shields.io/github/followers/fuyunoki?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/huyunoki">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/huyunoki?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/fuyunoki">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/fuyunoki?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/huyunoki">
+  <a href="https://stackoverflow.com/users/5720201/fuyunoki">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/huyunoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/huyunoki/posts.svg" />
+  <a href="http://qiita.com/fuyunoki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/fuyunoki/posts.svg" />
   </a>
-  <//qiita.com/huyunoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/huyunoki/contributions.svg" />
+  <//qiita.com/fuyunoki">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/fuyunoki/contributions.svg" />
   </a>
 </p>
 
@@ -38,15 +38,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyunoki&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="huyunoki's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyunoki&theme=dracula&hide_border=true" alt="huyunoki's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuyunoki&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="fuyunoki's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuyunoki&theme=dracula&hide_border=true" alt="fuyunoki's GitHub Streak" />
 </p>
 
 ---
 
 ## 自己紹介
 
-大阪の関西大学にいる学生エンジニア、**huyunoki**です。2026年からは東京で**Webエンジニア**としての新たな挑戦を始めます。
+大阪の関西大学にいる学生エンジニア、**fuyunoki**です。2026年からは東京で**Webエンジニア**としての新たな挑戦を始めます。
 
 現在は**Web開発**に没頭しており、特にバックエンドの基盤となる**Java**（Spring Boot）を重点的に学習・活用しています。
 インターンではSaaS企業でバックエンドの方に携わらせています。また、多くの型と関わりが増えていくにつれて、Qiitaでの発信に興味を持ち、現在学習の振り返りもかねて投稿することを意識しています。
@@ -91,7 +91,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyunoki&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunoki&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -115,7 +115,7 @@
 最新の活動や日々の学びは、X（旧Twitter）で発信しています！
 
 <p align="left">
-  <a href="https://twitter.com/huyunoki1226" target="_blank">
+  <a href="https://twitter.com/fuyunoki1226" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
