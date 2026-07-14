@@ -1,127 +1,136 @@
-<p align="center">
-  <h1 align="center">
-    Hi there 👋, I'm fuyunoki!
-  </h1>
-  <p align="center">
-    関西大学出身 | 2026年より東京でWebエンジニアとして活動予定
-  </p>
-  
-  <p align="left">
-  <a href="https://github.com/fuyunoki/fuyunoki/">
-    <img src="https://komarev.com/ghpvc/?username=fuyunoki" alt="fuyunoki" />
-  </a>
-  <a href="http://twitter.com/fuyunoki">
-    <img height="20" src="https://img.shields.io/twitter/follow/fuyunoki?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/fuyunoki">
-    <img height="20" src="https://img.shields.io/github/followers/fuyunoki?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/fuyunoki">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/fuyunoki?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/fuyunoki">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/fuyunoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/fuyunoki/posts.svg" />
-  </a>
-  <//qiita.com/fuyunoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/fuyunoki/contributions.svg" />
-  </a>
-</p>
-
-
-
----
-
-## GitHub アクティビティ & 統計
-
+<h1 align="center">Hi there, I'm fuyunoki</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuyunoki&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="fuyunoki's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuyunoki&theme=dracula&hide_border=true" alt="fuyunoki's GitHub Streak" />
+  Web Engineer in Tokyo — Java / Spring Boot × Vue.js<br>
+  <sub>設計とコードと、たまにギター。猫も忘れずに🐈</sub>
 </p>
-
----
-
-## 自己紹介
-
-大阪の関西大学にいる学生エンジニア、**fuyunoki**です。2026年からは東京で**Webエンジニア**としての新たな挑戦を始めます。
-
-現在は**Web開発**に没頭しており、特にバックエンドの基盤となる**Java**（Spring Boot）を重点的に学習・活用しています。
-インターンではSaaS企業でバックエンドの方に携わらせています。また、多くの型と関わりが増えていくにつれて、Qiitaでの発信に興味を持ち、現在学習の振り返りもかねて投稿することを意識しています。
-
-将来的には、みんなでワイワイしながらコミニティで楽しくwebサービスを生み出していく。楽しむ心を忘れずに生きて行けたらと思ってます。
-
----
-
-## スキルスタック
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>主要技術 (Languages & Frameworks)</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>開発ツール & 環境 (Tools & Environment)</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-        <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=dot-net&logoColor=white" alt="REST API">
-      </p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunoki&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 目標 & 挑戦 (Goals & Challenges)
-
-* **Web開発の道を極める:** フロントエンドからバックエンドまで、Web開発に関するあらゆる技術を深く理解し、実践力を高めます。
-* **革新的な個人サービス開発:** 日々の学習で得た知識を形にし、ユーザーの課題を解決するようなWebサービスを開発・公開します。
-* **オープンソース貢献:** 将来的にはオープンソースプロジェクトにも積極的に貢献し、コミュニティに還元したいと考えています。
-
----
-
-## 趣味 & その他
-
-コードを書くことと同じくらい、**音楽**も私の情熱です。バンドで**ギター**を弾いており、特に**弾き語り**は気分転換やアイデアを練るための大切な時間です。クリエイティブな表現は、プログラミングの世界でも音楽の世界でも共通しています。
-
----
-
-## 連絡先 & ソーシャル (Connect with me!)
-
-最新の活動や日々の学びは、X（旧Twitter）で発信しています！
-
-<p align="left">
-  <a href="https://twitter.com/fuyunoki1226" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
+  <a href="https://x.com/fuyunoki_Eng">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://qiita.com/fuyunoki">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
 
 ---
 
+### About
+
+2026年から東京でWebエンジニアとして働いています。関西大学出身。
+
+バックエンド、特に **Java / Spring Boot** を軸に、フロントエンドは **Vue.js** を触っています。
+インターン時代からSaaSのバックエンド開発に関わってきました。
+
+いま一番の関心は **「動くもの」から「壊れにくいもの」へ**。
+クリーンアーキテクチャを意識した設計を、個人開発を通して手を動かしながら鍛えています。
+
+最近は **Claude** をはじめとしたAIツールにも強い関心があり、開発フローにどう組み込めるかを試行錯誤中です。
+あわせて **DevOps** — 開発と運用を橋渡しし、品質を保ち続ける仕組みそのものを作る領域にも興味を持っています。
+
+学んだことは Qiita に書いて残すようにしています。振り返りが一番の復習なので。
+
+---
+
+### Tech Stack
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Monitoring & Ops**
+
+<p>
+  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black" />
+</p>
+
+**Build & Development Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+**Project Management**
+
+<p>
+  <img src="https://img.shields.io/badge/Lychee_Redmine-D93D3D?style=flat-square&logo=redmine&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats
+
 <p align="center">
-  &mdash; Thanks for stopping by! &mdash;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fuyunoki&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyunoki&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fuyunoki&theme=github-dark&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### Goals
+
+- **設計力を鍛える** — 動くコードではなく、変更に耐えるコードを書けるようになる
+- **コンパイラを頭の中に入れる** — 書いた瞬間に、それがどう動くかまで見えている状態を目指す
+- **個人開発を出しきる** — 作りかけで終わらせず、公開するところまでやる
+- **書いて残す** — 学んだことを Qiita にアウトプットし続ける
+- **いつかOSSへ** — 使わせてもらっている分、還元できる側に回りたい
+
+---
+
+### Off the Keyboard
+
+バンドで ギターボーカル をやっていました。
+
+バンド活動そのものはひと区切りつきましたが、音楽は今も生活の真ん中にあります。
+
+ライブハウスに足を運んだり、インディーズのバンドを掘ったり、ギターで弾き語りをしたり、みんなとカラオケに行くのが好きです。
+
+<p align="center">
+  <sub>Thanks for stopping by 🎸</sub>
 </p>
